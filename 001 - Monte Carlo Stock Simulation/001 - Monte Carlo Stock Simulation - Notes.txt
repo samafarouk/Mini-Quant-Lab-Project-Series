@@ -1,0 +1,71 @@
+=====================================================
+Project #001
+Monte Carlo Stock Price Simulation in Excel
+=====================================================
+
+Date:
+30 July 2026
+
+Time Spent:
+~30 minutes
+
+Difficulty:
+★★☆☆☆
+
+Objective
+---------
+Build a basic Monte Carlo simulation in Microsoft Excel to model
+one possible future path of a stock price over one trading year
+(252 trading days).
+
+Concepts Learned
+----------------
+- Random number generation using RAND()
+- Normal distribution using NORM.INV()
+- Converting annual return to daily return
+- Converting annual volatility to daily volatility
+- Daily compounding of stock prices
+- Monte Carlo simulation fundamentals
+
+Excel Functions Used
+--------------------
+RAND()
+NORM.INV()
+SQRT()
+
+Method
+------
+1. Defined the initial stock price.
+2. Set expected annual return (10%).
+3. Set annual volatility (20%).
+4. Converted annual values into daily values.
+5. Generated a random daily return from a normal distribution.
+6. Updated the stock price each day using:
+
+   New Price = Previous Price × (1 + Daily Return)
+
+7. Repeated the process for 252 trading days.
+
+Key Insight
+-----------
+A Monte Carlo simulation does not predict the future.
+Instead, it generates one possible future based on
+assumptions about expected return and volatility.
+
+Things I Found Interesting
+--------------------------
+- RAND() recalculates every time Excel recalculates,
+  creating a completely new market scenario.
+- Breaking large formulas into helper cells made the
+  logic much easier to understand.
+
+Possible Improvements
+---------------------
+- Simulate multiple price paths simultaneously.
+- Implement Geometric Brownian Motion.
+- Calculate the probability of reaching a target price.
+- Estimate Value at Risk (VaR).
+
+Status
+------
+Completed ✅
