@@ -32,11 +32,9 @@ Rather than treating statistical significance as sufficient evidence of a reliab
 
 The initial model is specified as:
 
-\[
-URBANIZATION_t =
+$$ URBANIZATION_t =
 \beta_0+\beta_1POPULATION\_GROWTH_t
-+\beta_2GDPCONST_t+\beta_3MAN_t+u_t
-\]
++\beta_2GDPCONST_t+\beta_3MAN_t+u_t $$
 
 Where:
 
