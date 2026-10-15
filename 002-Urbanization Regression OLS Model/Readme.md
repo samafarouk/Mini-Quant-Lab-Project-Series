@@ -2,7 +2,7 @@
 
 **An applied econometrics project using EViews to investigate the relationship between urbanization and selected economic and demographic variables.**
 
-![Status](https://img.shields.io/badge/Status-%20Complete-green)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 ![Methods](https://img.shields.io/badge/Methods-OLS%20%7C%20ADF%20%7C%20Diagnostics-blue)
 ![Software](https://img.shields.io/badge/Software-EViews-2E8B57)
 
@@ -157,29 +157,6 @@ No final conclusion about the validity of the baseline regression is drawn at th
 - **Jarque–Bera:** Residual normality testing.
 - **Augmented Dickey–Fuller:** Unit-root testing.
 - **Statistical inference:** p-values, critical values, coefficient significance, and model diagnostics.
-
-## Repository Structure
-
-The repository will be organized to separate data, analysis, results, and documentation.
-
-```text
-urbanization-econometrics/
-│
-├── README.md
-├── data/
-│   └── README.md
-├── eviews/
-│   └── README.md
-├── results/
-│   ├── ols_regression.png
-│   ├── heteroscedasticity_test.png
-│   ├── normality_test.png
-│   └── adf_test.png
-└── docs/
-    └── methodology.md
-```
-
-*This is a proposed structure. Add files and folders as they are created; do not include placeholder screenshots or data files as if they already exist.*
 
 The dataset, EViews workfile, and supplementary documentation should be added only when they are ready to share. Data sources, variable definitions, and any licensing or redistribution restrictions should be documented before publication.
 
