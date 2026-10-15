@@ -2,7 +2,7 @@
 
 **An applied econometrics project using EViews to investigate the relationship between urbanization and selected economic and demographic variables.**
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Status](https://img.shields.io/badge/Status-In%20Complete-green)
 ![Methods](https://img.shields.io/badge/Methods-OLS%20%7C%20ADF%20%7C%20Diagnostics-blue)
 ![Software](https://img.shields.io/badge/Software-EViews-2E8B57)
 
