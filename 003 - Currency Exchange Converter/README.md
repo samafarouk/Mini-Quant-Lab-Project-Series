@@ -163,7 +163,7 @@ This project offers practice with:
 International Economics student building projects that connect
 analytical thinking with practical technical skills.
 
-Explore more work on [GitHub]((https://github.com/samafarouk)) 
+Explore more work on [GitHub](https://github.com/samafarouk) 
 
 
 ------------------------------------------------------------------------
