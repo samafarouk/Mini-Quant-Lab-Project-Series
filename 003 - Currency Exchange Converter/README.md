@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 💱 Python Currency Converter
 
 **A beginner-friendly, menu-driven currency converter built with
@@ -11,7 +11,6 @@ using predefined exchange rates, then review your conversion history.
 Works](#-how-it-works) · [Limitations](#-current-limitations) ·
 [Roadmap](#-possible-improvements)
 
-`<br>`{=html}
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Project-Completed%20Learning%20Project-2E8B57?style=for-the-badge)
@@ -164,11 +163,11 @@ This project offers practice with:
 International Economics student building projects that connect
 analytical thinking with practical technical skills.
 
-Explore more work on [GitHub]([https://github.com/](https://github.com/samafarouk)) 
+Explore more work on [GitHub]((https://github.com/samafarouk)) 
 
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 **If you found this project useful, feel free to ⭐ the repository!**
-:::
+
