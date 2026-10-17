@@ -17,6 +17,8 @@ Works](#-how-it-works) · [Limitations](#-current-limitations) ·
 ![Status](https://img.shields.io/badge/Project-Completed%20Learning%20Project-2E8B57?style=for-the-badge)
 ![Dependencies](https://img.shields.io/badge/Dependencies-Standard%20Library-lightgrey?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Not%20Specified-lightgrey?style=for-the-badge)
+
+Last Updated: October 2024
 :::
 
 ------------------------------------------------------------------------
@@ -80,17 +82,6 @@ converts to `3.20 USD`. This is only an illustration of the program's
 logic, not a current exchange-rate quote.
 
 ## ⚙️ How It Works
-
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}View the main functions`</strong>`{=html}
-```{=html}
-</summary>
-```
 ### `convert_currency(amount, from_currency, to_currency, rates)`
 
 Builds a tuple from the source and target currency, looks up that pair
@@ -108,19 +99,7 @@ Runs the interactive menu, collects user input, checks the currency
 names and amount format, calls the conversion function, records
 successful conversions, and exits when the user selects option 3.
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}View the exchange-rate dictionary`</strong>`{=html}
-```{=html}
-</summary>
-```
+
 The program currently defines these pairs:
 
   Currency pair     Hard-coded rate
@@ -132,17 +111,14 @@ The program currently defines these pairs:
   USD → Dirham                 3.67
   Dirham → USD                 0.27
 
-These values are fixed in the source code and may be outdated or
-inconsistent with one another. The program does not retrieve rates from
+These values are fixed in the source code and is outdated as last edited was in october 2024. The program does not retrieve rates from
 an external API.
 
-```{=html}
-</details>
-```
+
 ## 📁 Project Structure
 
 ``` text
-YOUR-REPOSITORY/
+Mini-Quant-Lab-Project-Series/
 ├── Project.py
 └── README.md
 ```
@@ -176,7 +152,6 @@ features currently implemented.
 ## 🎯 Learning Objectives
 
 This project offers practice with:
-
 -   Python functions and control flow
 -   Dictionaries, lists, and tuples
 -   User input and validation
@@ -189,9 +164,8 @@ This project offers practice with:
 International Economics student building projects that connect
 analytical thinking with practical technical skills.
 
-Explore more work on [GitHub](https://github.com/) and follow the
-**Thinknomics** approach: *Question → Research → Data → Analysis →
-Insight.*
+Explore more work on [GitHub]([https://github.com/](https://github.com/samafarouk)) 
+
 
 ------------------------------------------------------------------------
 
