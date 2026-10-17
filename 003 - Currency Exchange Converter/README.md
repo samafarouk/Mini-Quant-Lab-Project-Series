@@ -56,39 +56,6 @@ successful conversions in a session history.
   Lists and tuples         Store conversion records during the session
   Command-line interface   Collect user input and display results
 
-## 🚀 Getting Started
-
-### 1. Check Python
-
-Install Python 3 if it is not already installed. You can check your
-installation with:
-
-``` bash
-python --version
-```
-
-Depending on your system, you may need to use `python3 --version`.
-
-### 2. Clone the repository
-
-Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with your GitHub username
-and repository name:
-
-``` bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
-```
-
-### 3. Run the program
-
-Save the script as `Project.py`, then run:
-
-``` bash
-python Project.py
-```
-
-No additional packages are required.
-
 ## 🖥️ Example Workflow
 
 When the program starts, it presents a menu similar to this:
